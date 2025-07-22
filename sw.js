@@ -1,6 +1,6 @@
 const CACHE_NAME = 'cska-cache-v1';
 const urlsToCache = [
-  '/cska1.html',
+  '/index.html',
   '/styles.css',
   '/script.js',
   '/cska.jpg',
