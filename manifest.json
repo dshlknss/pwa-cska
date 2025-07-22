@@ -1,0 +1,21 @@
+{
+  "name": "ЦСКА Москва - Хоккейный клуб",
+  "short_name": "ЦСКА",
+  "description": "Официальное приложение хоккейного клуба ЦСКА Москва",
+  "start_url": "/cska1.html",
+  "display": "standalone",
+  "background_color": "#1a3b8b",
+  "theme_color": "#e31837",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
